@@ -31,7 +31,7 @@ hours to seconds.
 
 ## I’m Currently Learning/Working On 🌱
 
-I'm currently working on my Generative AI Sort Accuracy Project, check out it out!
+I'm currently working on my Generative AI Sort Accuracy Project, check it out!
 
 I'm currently learning the fundamentals of Data Science and Machine learning using Python outside of my course curriculum.
 
