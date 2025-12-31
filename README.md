@@ -4,6 +4,14 @@ I'm a Computer Science student at Tennessee Tech, with a concentration in Data S
 
 ## My Experience 🔬
 
+Undergraduate Researcher - Tennessee Technological University
+
+* Selected as an undergraduate researcher to assist in Artificial Intelligence-related research, specifically focusing on Large Language Models (LLMs).
+
+* Collaborated with graduate researchers to design and implement simulations that generated synthetic training data to improve model performance.
+
+* Leveraged academic literature to optimize simulation parameters, ensuring the generation of high-quality synthetic data for model training.
+
 NSF Summer Research Intern - Fisk University:
 
 * Characterized NaI(Tl) scintillator crystals for radiation detection.
@@ -21,7 +29,9 @@ hours to seconds.
 
 * Produced statistical reports, visualizations, and research-ready outputs for presentations, eliminating manual file transfers and saving 2+ hours per analysis cycle.
 
-## I’m currently learning 🌱
+## I’m Currently Learning/Working On 🌱
+
+I'm currently working on my Generative AI Sort Accuracy Project, check out it out!
 
 I'm currently learning the fundamentals of Data Science and Machine learning using Python outside of my course curriculum.
 
