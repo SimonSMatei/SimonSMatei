@@ -39,7 +39,7 @@ I'm currently learning the fundamentals of Data Science and Machine learning usi
 
 I am actively seeking Summer 2026 Computer Science / Data Science Internships. Let's connect!
 
-https://www.linkedin.com/in/simonmatei/ 
+[LinkedIn](https://www.linkedin.com/in/simonmatei/)
 
 simonsamuelmatei2007@gmail.com
 
