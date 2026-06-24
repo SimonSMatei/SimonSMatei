@@ -1,48 +1,32 @@
-## Welcome! I'm Simon Matei👋
+## 🔬 Simon S. Matei
+**Undergraduate Researcher | Data Science & AI | Software & Data Engineering**
 
-I'm a Computer Science student at Tennessee Tech, with a concentration in Data Science and AI. My academic path is supported by strategic minors in Mathematics (for algorithmic theory) and Electrical & Computer Engineering (ECE) (for critical insight into high-performance computing and systems architecture). I'm a highly driven individual committed to learning and developing skills related to Data Science, Artificial Intelligence, and Software Development. 
+I am a Computer Science student at Tennessee Technological University, concentrating in Data Science and AI, supported by dual minors in Mathematics and Electrical & Computer Engineering (ECE). I enjoy bridging the gap between computer science and real-world applications. Whether that is developing models for materials characterization or stress-testing industry-level language models in realistic environments, my work explores how Artificial Intelligence can be utilized in practical applications. My work also values the fundamentals and principles of software development and computer architecture.
 
-## My Experience 🔬
+---
 
-Undergraduate Researcher - Tennessee Technological University
+### 🔭 Active Research & Engineering
 
-* Selected as an undergraduate researcher to assist in Artificial Intelligence-related research, specifically focusing on Large Language Models (LLMs).
+* **LLM Sort[🔗](https://github.com/SimonSMatei/LLM-Sort):** Source code and benchmarking framework for my recent paper submitted to the 2026 International Conference on Machine Learning and Applications (ICMLA - Under Review). The project evaluates token retention and error taxonomy in frontier LLMs on deterministic sorting tasks.
+* **SMaRT-Pack[🔗](https://github.com/SimonSMatei/SMaRT-Pack):** A Python software package engineered for materials science data processing and model development during my time as part of the 2026 SMaRT Internship Program with the University of Tennessee and Oak Ridge National Lab.
 
-* Collaborated with graduate researchers to design and implement simulations that generated synthetic training data to improve model performance.
+### 🧪 Research Impact
 
-* Leveraged academic literature to optimize simulation parameters, ensuring the generation of high-quality synthetic data for model training.
+* **UT-ORII | Machine Learning Intern:** Architected a data engineering pipeline using Python and Pandas to merge large-scale materials science databases. Developed a custom Python library package for scientific data processing, leveraging object-oriented and functional programming paradigms.
+* **Tennessee Tech | NSF Undergraduate AI Researcher:** Co-authored and submitted two technical research papers to ICMLA 2026 (acceptance pending). Engineered an automated Python evaluation pipeline to benchmark four frontier LLMs on deterministic sorting. Synthesized comprehensive academic literature covering SUMO traffic environments and genetic optimization as a background for a novel traffic simulation calibration method.
+* **Fisk University | NSF Summer Intern:** Built 8+ Python tools compatible with Windows 11 and XP, automating the preprocessing of 32,000+ data channels. Designed waveform isolation algorithms that reduced datasets from 50,000+ events to a few thousand, cutting processing time from hours to seconds.
 
-NSF Summer Research Intern - Fisk University:
+### 🛠️ Technical Stack
 
-* Characterized NaI(Tl) scintillator crystals for radiation detection.
+* **Language:** Python (PCEP™ Certified), C++
+* **Tools & Environments:** Visual Studio Code, Google Antigravity, OriginPro Labs, Orange
 
-* Built 8+ Python tools compatible with Windows 11 and XP for data fitting, decay analysis, and large dataset processing, reducing analysis time.
+---
 
-  * Automated preprocessing of 32,000+ data channels and 16 inputs into structured files.
+### 📬 Let's Connect
+Actively seeking a Summer 2027 Computer Science Internship to apply programming, data analysis, and problem-solving skills in real-world applications. 
 
-  * Designed waveform isolation algorithms that reduced datasets from 50,000+ events to a few thousand in seconds.
-
-  * Built automated Gaussian fit and decay analysis pipelines, cutting processing time from
-hours to seconds.
-
-* Developed cross-version tools compatible with both Windows 11 and legacy Windows XP systems, ensuring usability.
-
-* Produced statistical reports, visualizations, and research-ready outputs for presentations, eliminating manual file transfers and saving 2+ hours per analysis cycle.
-
-## I’m Currently Learning/Working On 🌱
-
-I'm currently working on my [Generative AI Sort Accuracy Project](https://github.com/SimonSMatei/Gen-AI-Sort-Accuracy-Evaluation) check it out!
-
-I'm currently learning the fundamentals of Data Science and Machine learning using Python outside of my course curriculum.
-
-## Next Steps 🎯
-
-I am actively seeking Summer 2026 Computer Science / Data Science Internships. Let's connect!
-
-[LinkedIn](https://www.linkedin.com/in/simonmatei/)
-
-simonsamuelmatei2007@gmail.com
-
+**[Email](simonsamuelmatei2007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simonmatei)**
 
 <!--
 **SimonSMatei/SimonSMatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
