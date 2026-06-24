@@ -12,9 +12,9 @@ I am a Computer Science student at Tennessee Technological University, concentra
 
 ### 🧪 Research Impact
 
-* **UT-ORII | Machine Learning Intern:** Architected a data engineering pipeline using Python and Pandas to merge large-scale materials science databases. Developed a custom Python library package for scientific data processing, leveraging object-oriented and functional programming paradigms.
+* **UT-ORII | Machine Learning Research Intern:** Architected a data engineering pipeline using Python and Pandas to merge large-scale materials science databases. Developed a custom Python library package for scientific data processing, leveraging object-oriented and functional programming paradigms.
 * **Tennessee Tech | NSF Undergraduate AI Researcher:** Co-authored and submitted two technical research papers to ICMLA 2026 (acceptance pending). Engineered an automated Python evaluation pipeline to benchmark four frontier LLMs on deterministic sorting. Synthesized comprehensive academic literature covering SUMO traffic environments and genetic optimization as a background for a novel traffic simulation calibration method.
-* **Fisk University | NSF Summer Intern:** Built 8+ Python tools compatible with Windows 11 and XP, automating the preprocessing of 32,000+ data channels. Designed waveform isolation algorithms that reduced datasets from 50,000+ events to a few thousand, cutting processing time from hours to seconds.
+* **Fisk University | NSF Summer Research Intern:** Built 8+ Python tools compatible with Windows 11 and XP, automating the preprocessing of 32,000+ data channels. Designed waveform isolation algorithms that reduced datasets from 50,000+ events to a few thousand, cutting processing time from hours to seconds.
 
 ### 🛠️ Technical Stack
 
