@@ -26,7 +26,7 @@ I am a Computer Science student at Tennessee Technological University, concentra
 ### 📬 Let's Connect
 Actively seeking a Summer 2027 Computer Science Internship to apply programming, data analysis, and problem-solving skills in real-world applications. 
 
-**[Email](simonsamuelmatei2007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simonmatei)**
+**[Email](mailto:simonsamuelmatei2007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/simonmatei)**
 
 <!--
 **SimonSMatei/SimonSMatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
